@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RecordNews.br",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:-1 tvg-id="RecordNews.br",Record News HD
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="Record.br",RecordTV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br",Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 tvg-id="BandMinasGerais.br",Band Minas HD
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br",TV Gazeta HD
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8

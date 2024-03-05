@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="SBT Ⓢ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" tvg-id="SBTNacional.br" group-title="Brazil",SBT Ⓢ
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logo-futura-horizontal.png" tvg-id="CanalFutura.br" group-title="Brazil",Futura
+https://tv.unisc.br/hls/test.m3u8
