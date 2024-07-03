@@ -1,0 +1,16 @@
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png?v=638133714690000000" group-title="Canais | DISCOVERY", Discovery 3.ᴴᴰ
+https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Discovery_Turbo_logo.svg" group-title="Canais | DISCOVERY", Discovery Turbo Link3.ᴴᴰ
+https://cdn-3.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Discovery_Turbo_logo.svg" group-title="Canais | DISCOVERY", Discovery Turbo Link4.ᴴᴰ
+https://cdn-4.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Discovery_Turbo_logo_2016.svg" group-title="Canais | DISCOVERY",Discovery Turbo 
+http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="Canais | DISCOVERY", Discovery id 1.ᴴᴰ
+https://cdn-3.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="Canais | DISCOVERY", Discovery id 2.ᴴᴰ
+https://cdn-4.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/World_Discovery_HD_logo.svg" group-title="Canais | DISCOVERY", Discovery World 3.ᴴᴰ
+https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+#EXTINF:-1 tvg-name="ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
+https://cdn-3.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
