@@ -14,3 +14,5 @@ https://cdn-4.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 #EXTINF:-1 tvg-name="ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
 https://cdn-3.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | DISCOVERY",Discovery Channel HD
+https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8

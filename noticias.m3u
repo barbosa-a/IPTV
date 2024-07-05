@@ -17,3 +17,116 @@ http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Canais | NOTICIAS",JP NEWS AUT 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+/*CANAIS GLOBO*/
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
+https://brflu.walk-tv.com/5756/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO", ➾ Globo PE *
+http://190.102.43.113:80/Formigatv/offilinetv2806/320557.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO", ➾ Globo PE **
+http://190.102.43.113:80/Formigatv/offilinetv2806/320558.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_TV_TEM_%282013%E2%80%932019%29.png" group-title="Canais | GLOBO",➾ Globo SP (TV TEM 1).ᴴᴰ
+http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_TV_TEM_%282013%E2%80%932019%29.png" group-title="Canais | GLOBO",➾ Globo SP (TV TEM 2).ᴴᴰ
+http://cdn-2.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_TV_TEM_%282013%E2%80%932019%29.png" group-title="Canais | GLOBO",➾ Globo SP (TV TEM 3).ᴴᴰ
+http://cdn-3.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_TV_TEM_%282013%E2%80%932019%29.png" group-title="Canais | GLOBO",➾ Globo SP (TV TEM 4).ᴴᴰ
+http://cdn-4.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png" group-title="Canais | GLOBO",➾ Globo SP 4k
+http://190.102.43.113:80/Formigatv/offilinetv2806/1542445.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png" group-title="Canais | GLOBO",➾ Globo SP (Link1).ᴴᴰ
+http://190.102.43.113:80/Formigatv/offilinetv2806/1541627.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png" group-title="Canais | GLOBO",➾ Globo SP (Link2).ᴴᴰ
+http://190.102.43.113:80/Formigatv/offilinetv2806/1541629.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png" group-title="Canais | GLOBO",➾ Globo SP (Link3).ᴴᴰ
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png" group-title="Canais | GLOBO",➾ Globo SP (Link4).ᴴᴰ
+https://cdn-4.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_Globo_2005.png" group-title="Canais | GLOBO",➾ Globo SP.ᴴᴰ
+http://190.102.43.113/Formigatv/offilinetv2806/1542012.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png" group-title="Canais | GLOBO",➾ Globo RJ *
+http://190.102.43.113:80/Formigatv/offilinetv2806/320531.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png" group-title="Canais | GLOBO",➾ Globo RJ **
+http://190.102.43.113:80/Formigatv/offilinetv2806/320534.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_TV_Bahia.png" group-title="Canais | GLOBO", ➾ Globo Bahia.ᴴᴰ ✅
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_TV_Bahia.png" group-title="Canais | GLOBO", ➾ Globo Bahia.ᴴᴰ ✅✅
+https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="Canais | GLOBO",➾ Globo SC NSC (Blumenau).ᴴᴰ
+http://89.45.12.66:8080/live/toptv_207670/LgNXVm3I/14161.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="Canais | GLOBO",➾ Globo SC NSC (Chapeco FHD)
+http://190.102.43.113/Formigatv/offilinetv2806/1541684.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="Canais | GLOBO",➾ Globo SC NSC (Chapeco HD)
+http://190.102.43.113/Formigatv/offilinetv2806/1541685.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_Rede_Liberal.png" group-title="Canais | GLOBO",➾ TV Liberal Belem (Globo)
+http://89.45.12.66:8080/live/toptv_207670/LgNXVm3I/14146.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/77/Logotipo_da_TV_Centro_Am%C3%A9rica.png" group-title="Canais | GLOBO", ➾ Globo Centro America (Cuiaba)
+http://89.45.12.66:8080/live/toptv_207670/LgNXVm3I/36283.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4b/Globo_TV_America_1999.png/revision/latest?cb=20130621143303" group-title="Canais | GLOBO", ➾ GLOBO TV CENTRO AMERICA FHD
+http://190.102.43.113/Formigatv/offilinetv2806/1541726.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4b/Globo_TV_America_1999.png/revision/latest?cb=20130621143303" group-title="Canais | GLOBO", ➾ GLOBO TV CENTRO AMERICA HD
+http://190.102.43.113:80/Formigatv/offilinetv2806/1541727.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/42/Rede_Globo_logo.png" group-title="Canais | GLOBO", ➾ Globo PA *
+http://190.102.43.113:80/Formigatv/offilinetv2806/320566.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/42/Rede_Globo_logo.png" group-title="Canais | GLOBO", ➾ Globo PA **
+http://190.102.43.113:80/Formigatv/offilinetv2806/320567.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/5b/Logotipo_da_TV_Morena.png/200px-Logotipo_da_TV_Morena.png" group-title="Canais | GLOBO",➾ Globo MS
+https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index_4.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_InterTV.png/200px-Logotipo_da_InterTV.png" group-title="Canais | GLOBO",Globo RN *
+http://190.102.43.113:80/Formigatv/offilinetv2806/320570.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_InterTV.png/200px-Logotipo_da_InterTV.png" group-title="Canais | GLOBO",Globo RN **
+http://190.102.43.113:80/Formigatv/offilinetv2806/320569.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/TV_Gazeta_ES_1976.svg/revision/latest?cb=20200131054039" group-title="Canais | GLOBO", ➾ Globo ES - Gazeta
+http://190.102.43.113:80/Formigatv/offilinetv2806/320563.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/TV_Gazeta_ES_1976.svg/revision/latest?cb=20200131054039" group-title="Canais | GLOBO", ➾ Globo ES - Gazeta
+http://190.102.43.113:80/Formigatv/offilinetv2806/320564.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD Alternativo
+http://hls1.sua.tv:80/live/globosphd/s.m3u8
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília HD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/32370
+
+#EXTINF:-1 tvg-id="Globo"  tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM SP HD
+http://cdn-3.nxplay.com.br/TV_TEM_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="Globo"  tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RPC Curitiba HD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/32266
+
+#EXTINF:-1 tvg-id="Globo"  tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | GLOBO",Globo BA HD
+https://cr7v.short.gy/manoiptvfree/REDEBA/Index.m3u8
+/*CANAIS GLOBO*/

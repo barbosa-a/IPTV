@@ -18,3 +18,17 @@ https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime SD
 https://cdn-3.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime HD
+http://cdn.connectbr.com.br:80/Lifetime/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
+https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | DISCOVERY",Discovery Science HD 
+https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b4Z8dd0HD.png" group-title="Canais | FILMES E SERIES",Canal Sony HD 
+https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
+https://cdn-3.nxplay.com.br/HISTORY_TK/index.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E SD
+https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | TELECINE",Telecine Pipoca HD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31590
