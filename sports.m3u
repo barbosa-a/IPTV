@@ -14,5 +14,43 @@ https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Canais | ESPN",⚽️ -  ESPN BRASIL ...
 https://cdn-3.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
 https://cr7v.short.gy/manoiptvfree/PremiereClube/Index.m3u8
+#EXTINF:-1,Premiere 2
+http://painel.iptvmove.com:25461/live/0167/0167/1277.m3u8
+#EXTINF:-1,Premiere 2 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1377.m3u8
+#EXTINF:-1,Premiere 3
+http://painel.iptvmove.com:25461/live/0167/0167/1276.m3u8
+#EXTINF:-1,Premiere 3 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1376.m3u8
+#EXTINF:-1,Premiere 4 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1375.m3u8
+#EXTINF:-1,Premiere 4
+http://painel.iptvmove.com:25461/live/0167/0167/1275.m3u8
+#EXTINF:-1,Premiere 5 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1374.m3u8
+#EXTINF:-1,Premiere 5
+http://painel.iptvmove.com:25461/live/0167/0167/1274.m3u8
+#EXTINF:-1,Premiere 6
+http://painel.iptvmove.com:25461/live/0167/0167/1273.m3u8
+#EXTINF:-1,Premiere 7
+http://painel.iptvmove.com:25461/live/0167/0167/1272.m3u8
+#EXTINF:-1,Premiere 8
+http://painel.iptvmove.com:25461/live/0167/0167/1271.m3u8
+#EXTINF:-1,Premiere 9
+http://painel.iptvmove.com:25461/live/0167/0167/1270.m3u8
+
+#EXTINF:-1,SporTV
+http://painel.iptvmove.com:25461/live/0167/0167/1254.m3u8
+#EXTINF:-1,Sport TV HD
+http://painel.iptvmove.com:25461/live/0167/0167/1367.m3u8
+#EXTINF:-1,SporTV 2
+http://painel.iptvmove.com:25461/live/0167/0167/1253.m3u8
+#EXTINF:-1,Sport TV 2 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1369.m3u8
+#EXTINF:-1,SporTV 3
+http://painel.iptvmove.com:25461/live/0167/0167/1252.m3u8
+#EXTINF:-1,Sport TV 3 HD
+http://painel.iptvmove.com:25461/live/0167/0167/1368.m3u8
