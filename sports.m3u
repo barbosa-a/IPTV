@@ -1,3 +1,4 @@
+/*
 #EXTM3U
 #EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-id="AllSports.br" group-title="Brazil",ALL Sports Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
@@ -17,6 +18,7 @@ https://cdn-3.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
 https://cr7v.short.gy/manoiptvfree/PremiereClube/Index.m3u8
+/*
 
 ############################################################################ CANAIS ESPORTES
  
