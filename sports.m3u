@@ -11,8 +11,7 @@ https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
 https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/BandSports_logo.svg" group-title="Canais | ESPORTES",⚽️ - BAND (SPORTS 2).ᴴᴰ
 https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate HD
-http://148.113.160.49:14124/
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Canais | ESPN",⚽️ -  ESPN BRASIL ...
 https://cdn-3.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
