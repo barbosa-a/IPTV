@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/uoPNiM1.png",Woohoo Surf
+https://cdn-1.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/nk19QkO.png",National Sports Channel
+https://cdn-2.nxplay.com.br/PLAYOUT_02_NSC/index.m3u8
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/tbdL42j.png",PONTV
+https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+#EXTINF:-1 group-title="Canais (Not) | YOUTUBE SPORTS" tvg-logo="https://imgur.com/m2OuD7o.png",Caze TV Não é 24h
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+#EXTINF:-1 group-title="Canais (Not) | YOUTUBE SPORTS" tvg-logo="https://imgur.com/dTZEVnq.png",Canal GOAT N é 24h
+https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
+#EXTINF:-1 group-title="Canais (Not) | YOUTUBE SPORTS" tvg-logo="https://imgur.com/NM5usn9.png",TNT Sports N é 24h
+https://ythls.armelin.one/channel/UCs-6sCz2LJm1PrWQN4ErsPw.m3u8
+#EXTINF:-1 group-title="Canais (Not) | YOUTUBE SPORTS" tvg-logo="https://imgur.com/dC2p8J1.png",UOL Esporte N é 24h
+https://ythls.armelin.one/channel/UC3KHYFWeB0WimMBfm3NEahQ.m3u8
+#EXTINF:-1 group-title="Canais (Not) | YOUTUBE SPORTS" tvg-logo="https://imgur.com/UbT12bX.png",JP Esportes
+https://ythls.armelin.one/channel/UCv-Nx8pSfG_LxbViMz14RWQ.m3u8
+#EXTINF:-1 group-title="Canais (Not) | YOUTUBE SPORTS" tvg-logo="https://imgur.com/480kvLZ.png",Energia 97
+https://ythls.armelin.one/channel/UCIkAO7iHS6R9AtcABE9MdRQ.m3u8
+#EXTINF:-1 group-title="Canais (Not) | YOUTUBE SPORTS" tvg-logo="https://imgur.com/AQnqZFV.png",Flow Sport Club
+https://ythls.armelin.one/channel/UC5-aueB1RqpUc-EeAjtx9Lw.m3u8
+#EXTINF:-1 group-title="Canais (Not) | YOUTUBE SPORTS" tvg-logo="https://imgur.com/PTN8FAp.png",Palmeiras TV
+https://ythls.armelin.one/channel/UCBKc-rPDivvwFiWdG-81wxw.m3u8
+#EXTINF:-1 group-title="Canais (Not) | YOUTUBE SPORTS" tvg-logo="https://imgur.com/gEfgAes.png",Corinthians TV
+https://ythls.armelin.one/channel/UCqRraVICLr0asn90cAvkIZQ.m3u8
+#EXTINF:-1 group-title="Canais (Not) | YOUTUBE SPORTS" tvg-logo="https://imgur.com/258uVMf.png",FLA TV
+https://ythls.armelin.one/channel/UCOa-WaNwQaoyFHLCDk7qKIw.m3u8
+#EXTINF:-1 group-title="Canais (Not) | YOUTUBE SPORTS" tvg-logo="https://imgur.com/LoPhYpQ.png",São Paulo FC
+https://ythls.armelin.one/channel/UCX3zTAsEoZ61rQMYb_08Tow.m3u8
+#EXTINF:-1 group-title="Canais (Not) | YOUTUBE SPORTS" tvg-logo="https://i.imgur.com/z3C9whw.png",Vasco TV
+https://ythls.armelin.one/channel/UCZD5qcen7lbLPFTjfvdLFcw.m3u8
+#EXTINF:-1 group-title="Canais (Not) | YOUTUBE SPORTS" tvg-logo="https://imgur.com/c8s4J1f.png",Rádio Craque Neto
+https://ythls.armelin.one/channel/UCZShhGzxHVd1xgiBhDDpYYA.m3u8
+#EXTINF:-1 group-title="Canais (Not) | PODCAST" tvg-logo="https://imgur.com/6RmpKmH.png",Ticaracaticast
+https://ythls.armelin.one/channel/UC9LH3xFOJCCp2VFRcZjNdRQ.m3u8
+#EXTINF:-1 group-title="Canais (Not) | PODCAST" tvg-logo="https://imgur.com/z3enYGW.png",FLOW PodCast
+https://ythls.armelin.one/channel/UC4ncvgh5hFr5O83MH7-jRJg.m3u8
+#EXTINF:-1 group-title="Canais (Not) | PODCAST" tvg-logo="https://imgur.com/ewsH1D2.png",Inteligência LTDA
+https://ythls.armelin.one/channel/UCWZoPPW7u2I4gZfhJBZ6NqQ.m3u8
+#EXTINF:-1 group-title="Canais (Not) | PODCAST" tvg-logo="https://imgur.com/Jz0W2VU.png",Groselha Cast
+https://ythls.armelin.one/channel/UCWDmPOsRxlprrygWI-8GekA.m3u8
+#EXTINF:-1 group-title="Canais (Not) | PODCAST" tvg-logo="https://imgur.com/KDhPrXL.png",Vênus PodCast
+https://ythls.armelin.one/channel/UCTBhsXf_XRxk8w4rMj6WBOA.m3u8
+#EXTINF:-1 group-title="Canais (Not) | YOUTUBE VARIEDADES" tvg-logo="https://imgur.com/zPEBotz.png",Diguinho Coruja
+https://ythls.armelin.one/channel/UCmDwoufWWYz8N0FJtWRbLjg.m3u8

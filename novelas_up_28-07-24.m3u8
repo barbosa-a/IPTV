@@ -1,82 +1,55 @@
-############################################################################ Canais | NOVELAS
-
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
+#EXTM3U
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/P2xB7uZ.png",ViVA HD
 https://abc.embedmax.site/viva/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA FHD
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/P2xB7uZ.png",ViVA FHD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/114
-
-#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas SD
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/x9XvCqL.png",TNT Novelas SD
 https://cdn-3.nxplay.com.br/TNT_NOVELAS_TK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/x9XvCqL.png",TNT Novelas HD
 https://cdn-3.nxplay.com.br/TNT_NOVELAS_TK/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | NOVELAS",Malhação 2000
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/BatygW5.png",Malhação 2000
 http://24hrs.homelinux.com:8080/24H-malhacao2000/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | NOVELAS",Malhação 2001
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/BatygW5.png",Malhação 2001
 http://24hrs.homelinux.com:8080/24H-malhacao2001/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | NOVELAS",Malhação 2002
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/BatygW5.png",Malhação 2002
 http://24hrs.homelinux.com:8080/24H-malhacao2002/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | NOVELAS",Malhação 2008
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/BatygW5.png",Malhação 2008
 http://24hrs.homelinux.com:8080/24H-malhacao2008/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="Canais | NOVELAS",Novelando HD 
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/p7tvqin.png",Novelando HD
 http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="Canais | NOVELAS",Novelando HD
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/p7tvqin.png",Novelando HD
 https://cc-21vbc0vo9kqq3.akamaized.net/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="Canais | NOVELAS",Os Dez Mandamentos 
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/tzYimlq.png",Os Dez Mandamentos
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/yL7HMC2.png" group-title="Canais | NOVELAS",TV Novelas
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/yL7HMC2.png",TV Novelas
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/crseFhh.png" group-title="Canais | NOVELAS",TVi Ficção
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.imgur.com/crseFhh.png",TVi Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" group-title="Canais | NOVELAS",SIC Novelas
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.ibb.co/5hQrgqd/SICNovelas.png",SIC Novelas
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Canais | NOVELAS",TELEVISA
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.imgur.com/EBkFVPb.png",TELEVISA
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JmK2D4i.png" group-title="Canais | NOVELAS",Pluto TV Novelas
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/JmK2D4i.png",Pluto TV Novelas
 https://i.mjh.nz/PlutoTV/15dcde0cc2efd2700090b7ff4-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Canais | NOVELAS",Novelas Turcas
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png",Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SUgLjCa.png" group-title="Canais | NOVELAS",Stormcast Novelas TV
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.imgur.com/SUgLjCa.png",Stormcast Novelas TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="Canais | NOVELAS",Canela Telenovelas
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.imgur.com/GrtNJki.png",Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="Canais | NOVELAS",TV Telenovelas
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.imgur.com/GrtNJki.png",TV Telenovelas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1  tvg-logo="https://imgur.com/RJDQqhJ.png" group-title="Canais | NOVELAS",Las Estrellas Latin America
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/RJDQqhJ.png",Las Estrellas Latin America
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/boOwYKj.png" group-title="Canais | NOVELAS", TV Novelas Drama
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.imgur.com/boOwYKj.png",TV Novelas Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/JjzpYfV.png" group-title="Canais | NOVELAS",TV Novelas Romance
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.imgur.com/JjzpYfV.png",TV Novelas Romance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="Canais | NOVELAS",TV Telemundo Telenovelas
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.imgur.com/l5BDImW.png",TV Telemundo Telenovelas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Canais | NOVELAS",Novelissima
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/7MCMU3j.png",Novelissima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Canais | NOVELAS",Sony Novelas | LG
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.imgur.com/mqEHDE1.png",Sony Novelas | LG
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Canais | NOVELAS",Sony Novelas | Plex
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.imgur.com/mqEHDE1.png",Sony Novelas | Plex
 https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=y4Rf78msRg4_dQbMaoax&ads.plex_id=5f5132e362fe160040f26c0f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
