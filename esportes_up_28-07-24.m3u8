@@ -29,8 +29,6 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/131
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/130
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/ZAHnoPh.png",ESPN 2 FHD
 http://cdnexpress.homelinux.net/live/47.m3u8
-#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/ErWFVO3.png",ESPN 4 SD
-https://cdn-3.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/Zz2VFpL.png",ESPN 5 HD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/139
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/HyeeIkG.png",Band Sports
@@ -71,12 +69,6 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/160
 https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/KlMpCWS.png",Canal GOAT YOUTUBE
 https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
-#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/io8ktJf.png",JOGO 1
-https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
-#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/io8ktJf.png",JOGO 2
-https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
-#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/io8ktJf.png",JOGO 3
-https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png",Pluto TV Esportes
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png",Realmadrid TV
