@@ -1,5 +1,4 @@
 #EXTM3U
-#####################################################################################################################################################CANAIS RECORD
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2022/09/record-news.png",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2022/09/record-news.png",Record News HD
@@ -10,47 +9,30 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png",Pluto TV Record News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#####################################################################################################################################################CANAIS PLUTO
-
 #EXTINF:-1 group-title="Canais | ANIMES & GEEK" tvg-logo="https://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png",Pluto TV Geek e Tech
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Canais | NOTICIAS" tvg-logo="https://i.imgur.com/MWGAfvV.png",JP NEWS AUT
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-
-#####################################################################################################################################################CANAIS GLOBO
-
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_TV_TEM_%282013%E2%80%932019%29.png", Globo SP 1 HD
+#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_TV_TEM_%282013%E2%80%932019%29.png",Globo TV TEM 1
 http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_TV_TEM_%282013%E2%80%932019%29.png", Globo SP 2 HD
+#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_TV_TEM_%282013%E2%80%932019%29.png",Globo TV TEM 2
 http://cdn-2.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_TV_TEM_%282013%E2%80%932019%29.png", Globo SP 3 HD
-http://cdn-3.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_TV_TEM_%282013%E2%80%932019%29.png", Globo SP 4 HD
+#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_TV_TEM_%282013%E2%80%932019%29.png",Globo TV TEM 4
 http://cdn-4.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png", Globo SP 5 HD
+#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png",Globo SP 5 HD
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png", Globo SP 6 HD
+#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png",Globo SP 6 HD
 https://cdn-4.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_TV_Bahia.png", Globo Bahia HD
+#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_TV_Bahia.png",Globo Bahia HD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/waZJG1M.png",Globo SP 7 HD
-https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/waZJG1M.png",Globo SP 8 HD
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.imgur.com/zldYz3t.png",Globo SP 9 HD
-http://cdn-3.nxplay.com.br/TV_TEM_TK/index.m3u8
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/MZ91OiM.png",Gazeta do Povo
 https://ythls.armelin.one/channel/UCWdGgeyOnCOGnvhNdbVl1dQ.m3u8
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/MPLvLOs.png",Oeste Sem Filtro- N é 24h YouTube
 https://ythls.armelin.one/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
-
-#####################################################################################################################################################CANAIS JOVEN PAN
-
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.imgur.com/MWGAfvV.png",JOVEN PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.imgur.com/MWGAfvV.png",JOVEN PAN NEWS 2
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.imgur.com/MWGAfvV.png",JOVEN PAN NEWS 3
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.imgur.com/MWGAfvV.png",JOVEN PAN NEWS SD
@@ -65,15 +47,10 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
 https://cdn-3.nxplay.com.br/CNN_FAST/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/4dfmnBs.png",CNN BRASIL HD
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News HD [Alter]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/498
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News FHD
 http://cdnexpress.homelinux.net/live/72.m3u8
-
-#####################################################################################################################################################CANAIS BAND
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/jCZzNjF.png",Band News SD
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
-
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg",AVANÇA BRASIL
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.imgur.com/B1KhZs2.png",4 POR 4
@@ -82,7 +59,6 @@ https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 https://011news.akamaized.net/011news/011news/chunklist_480p.m3u8
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.imgur.com/MGNoiZW.png",011 News HD
 https://011news.akamaized.net/011news/011news/playlist.m3u8
-
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/63xr9fk.png",24h News FHD
 http://cdn.connectbr.com.br/24_news/index.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/TlqB0Uo.png",TV Camara De Deputados FHD

@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/wULpnYR.png",ALL Sports Brasil
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/bvRubp2.png",Band Sport HD
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png",ESPN BRASIL
+https://cdn-3.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN HD
+https://cr7v.short.gy/manoiptvfree/ESPN/Index.m3u8
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/ZAHnoPh.png",ESPN 2 FHD
+http://cdnexpress.homelinux.net/live/47.m3u8
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/HIiZUQN.png",Combate FHD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/T6VmjYB.png",Premiere Clubes FHD
+https://cr7v.short.gy/manoiptvfree/PFCCLUBEHD/Index.m3u8
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/oJJ8AAI.png",CazéTV YOUTUBE
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/KlMpCWS.png",Canal GOAT YOUTUBE
+https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png",Pluto TV Esportes
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png",Realmadrid TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true

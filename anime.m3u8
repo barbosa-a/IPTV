@@ -33,21 +33,5 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais | ANIMES & GEEK" tvg-logo="https://i.imgur.com/2HaiovZ.png",Hallo Anime HD
 https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
-#EXTINF:-1 group-title="Canais | ANIMES & GEEK" tvg-logo="https://imgur.com/BatygW5.png",Dragon Ball
-http://24hrs.homelinux.com:8080/24H-dragon.ball/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais | ANIMES & GEEK" tvg-logo="https://imgur.com/BatygW5.png",Dragon Ball Z
-http://24hrs.homelinux.com:8080/24H-dragon.ball.z/video.m3u8?token=a4A2wbotS3
-#EXTINF:-1 group-title="Canais | ANIMES & GEEK" tvg-logo="https://imgur.com/BatygW5.png",Dragon Ball Super
-http://24hrs.homelinux.com:8080/24H-dragon.ball.super/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais | ANIMES & GEEK" tvg-logo="https://imgur.com/BatygW5.png",Dragon Ball GT
-http://24hrs.homelinux.com:8080/24H-dragon.ball.gt/video.m3u8
-#EXTINF:-1 group-title="Canais | ANIMES & GEEK" tvg-logo="https://imgur.com/BatygW5.png",Boruto 24h
-http://24hrs.homelinux.com:8080/24H-boruto/video.m3u8
-#EXTINF:-1 group-title="Canais | ANIMES & GEEK" tvg-logo="https://imgur.com/BatygW5.png",Avatar A Lenda de korra
-http://24hrs.homelinux.com:8080/24H-avataralendadekorra/video.m3u8
-#EXTINF:-1 group-title="Canais | ANIMES & GEEK" tvg-logo="https://imgur.com/BatygW5.png",avatar A Lenda de Aang
-http://24hrs.homelinux.com:8080/24H-avataralendadeaang/video.m3u8
-#EXTINF:-1 group-title="Canais | ANIMES & GEEK" tvg-logo="https://imgur.com/BatygW5.png",Futurama
-http://24hrs.homelinux.com:8080/24H-futurama/index.m3u8
 #EXTINF:-1 group-title="Canais | ANIMES & GEEK" tvg-logo="https://imgur.com/BatygW5.png",Animax
 https://stream.ichibantv.com:3547/hybrid/play.m3u8

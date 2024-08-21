@@ -1,106 +1,28 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/RxETCgZ.png",SPACE Alternativo
-https://cdn-3.nxplay.com.br/SPACE_TK/index.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/kA3ov0x.png",TNT HD
-https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://imgur.com/8Vr6580.png",Pluto TV Filmes Ação
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=aa3491bc-d231-4643-b51b-993c04890e52&clientModelNumber=na&deviceDNT=false&deviceId=aa3491bc-d231-4643-b51b-993c04890e52&deviceLat=-22.8970&deviceLon=-47.0444&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=57.0.2987.132&marketingRegion=BR&serverSideAds=true&sessionID=678bad8e-514a-11eb-a8d7-0242ac110002&sid=678bad8e-514a-11eb-a8d7-0242ac110002&userId=
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/IaxysZJ.png",AXN SD
-https://cdn-3.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/IaxysZJ.png",AXN HD
 https://cdn-3.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://i.imgur.com/gLqV8bf.png",Film & Arts HD
-https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/GPcKZ2i.png",Paramount HD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://i.imgur.com/lAPINbh.png",Lifetime SD
-https://cdn-3.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://i.imgur.com/lAPINbh.png",Lifetime HD
 http://cdn.connectbr.com.br:80/Lifetime/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/2lr4rvX.png",AMC HD
-https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
-
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://i.imgur.com/b4Z8dd0HD.png",Canal Sony HD
-https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
-
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/EYAmbe4.png",A&E SD
-https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/RxETCgZ.png",SPACE HD
-https://cr7v.short.gy/manotv/SPCHD/Index.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/kA3ov0x.png",TNT SD
-https://cr7v.short.gy/manotv/TNT/Index.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/vH2tkQt.png",TNT Séries FHD
-https://cdn-3.nxplay.com.br/TNT_SERIES_TK/index.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/zR0XZG7.png",Warner Channel FHD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/320
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/EYAmbe4.png",A&E AUT
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/IaxysZJ.png",AXN HD [Alter]
-https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/faV3eZx.png",Telecine Action HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/295
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/faV3eZx.png",Telecine Action FHD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/294
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/cPTZMTo.png",Telecine Pipoca HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/304
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/SGr7sdL.png",Telecine Premium HD [Alter]
 http://fzcdn.vood.top:80/hls/633_.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://i.imgur.com/viw732w.png",Telecine Touch HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/310
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://i.imgur.com/Tavo4Zl.png",Telecine Cult HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/298
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://i.imgur.com/eo6Js8D.png",Telecine Fun HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/301
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/2lr4rvX.png",AMC SD
 http://148.113.160.49:14008/
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/TCrKgcu.png",STAR CHANNEL HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/282
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/TCrKgcu.png",STAR CHANNEL FHD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/281
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://i.imgur.com/18X62CK.png",Sony HD [Alter]
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/Bv0MLFU.png",Sony Movies HD
-https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/Bv0MLFU.png",Sony Movies HD [Alter]
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/szGH75G.png",FX HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/244
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/v3a4Afr.png",CINEMAX HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/240
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/v3a4Afr.png",CINEMAX FHD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/239
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/H03jUu1.png",MEGAPIX HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/271
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/IKjcTJH.png",HBO HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/251
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/IKjcTJH.png",HBO FHD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/255
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/smM7mYc.png",HBO 2 HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/248
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/smM7mYc.png",HBO 2 FHD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/247
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/OzINH3M.png",HBO SIGNATURE HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/262
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/2dINPFY.png",HBO Family HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/253
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://i.imgur.com/Mkxd6PK.png",HBO Xtreme HD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/267
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/mMLZhgP.png",Studio Universal HD
 http://dzcdn.vood.top:80/hls/711_.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/mMLZhgP.png",Studio Universal HD [Alter]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/289
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/VwFjFMO.png",Universal Channel HD
 http://dzcdn.vood.top:80/hls/742_.m3u8
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/VwFjFMO.png",Universal Channel HD [Alter]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/319
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/20h0JkN.png",Disney Channel HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/20h0JkN.png",Disney Channel HD [Alter]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/352
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/20h0JkN.png",Disney Channel FHD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/351
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://i.imgur.com/yrzQyEu.png",Cine Brasil HD
-https://cdn-3.nxplay.com.br/Cinebrasil/index.m3u8
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/9lqxeLR.png",Dark Matter
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/f35UF5q.png",MyTime Movies
@@ -115,8 +37,6 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/DxiQK7v.png",Entretendo
 http://cdn.connectbr.com.br/Entretendo/index.m3u8?ManoTV
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://i.imgur.com/N4W3VoB.png",EuropaPlay Nacional
-https://cdn-3.nxplay.com.br/europaplay/index.m3u8
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/x13Zoz1.png",Dark Flix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/u8XN65I.png",CHANNEL ONE
