@@ -271,3 +271,5 @@ https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 https://stmv.video.expressolider.com.br/tvboanova/tvboanova/playlist.m3u8
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/TQKRfvo.png",Universo TV
 https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/k4fl1wF.png",Globo SP
+https://anonmedia.eu/globosp-globosaopaulo/tracks-v1a1/mono.m3u8

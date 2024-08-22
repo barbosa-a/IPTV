@@ -24,3 +24,5 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a76
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN
 https://stream.embedflix.co/p2p/spn/chunks.m3u8
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN 6
+https://abc.embedmax.site/ESPN1/tracks-v1a1/mono.m3u8
