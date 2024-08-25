@@ -26,3 +26,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a76
 https://stream.embedflix.co/p2p/spn/chunks.m3u8
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN 6
 https://abc.embedmax.site/ESPN1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/T6VmjYB.png",Premiere
+https://new.embedflix.co/p2p/prfc1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI0IDExOjEwOjE0IFBNJmhhc2hfdmFsdWU9c0RWazJrYk9yVW93MWtMWm9GdWtHdz09JnZhbGlkbWludXRlcz0xNjA=
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://marcasmais.com.br/wp-content/uploads/2023/08/Sportv-Logo.jpg",Sportv
+https://stream.embedflix.co/p2p/sportv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI0IDExOjE0OjQ5IFBNJmhhc2hfdmFsdWU9ckFkWHJ0Vk5ER3ZJWDQ4STJ0UWpqUT09JnZhbGlkbWludXRlcz0xNjA=
